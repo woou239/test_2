@@ -1,0 +1,19 @@
+﻿  saveFile_test.cpp
+D:\Project\learnC++\IOCP\IOCP0401_test\saveFile_test\threadpool.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\learnC++\IOCP\IOCP0401_test\saveFile_test\threadpool.h(105,36): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\learnC++\IOCP\IOCP0401_test\saveFile_test\saveFile_test.cpp(36,21): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Project\learnC++\IOCP\IOCP0401_test\saveFile_test\saveFile_test.cpp(269,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5056,24): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\Project\learnC++\IOCP\IOCP0401_test\saveFile_test\saveFile_test.cpp(170,8): message : 查看对正在编译的函数 模板 实例化“void std::fill<float*,double>(const _FwdIt,const _FwdIt,const _Ty &)”的引用
+          with
+          [
+              _FwdIt=float *,
+              _Ty=double
+          ]
+  saveFile_test.vcxproj -> D:\Project\learnC++\IOCP\IOCP0401_test\x64\Debug\saveFile_test.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

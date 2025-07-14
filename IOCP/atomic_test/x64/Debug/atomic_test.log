@@ -1,0 +1,7 @@
+﻿  atomic.cpp
+D:\Project\learnC++\IOCP\IOCP0401_test\atomic_test\threadpool.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\learnC++\IOCP\IOCP0401_test\atomic_test\threadpool.h(105,36): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\learnC++\IOCP\IOCP0401_test\atomic_test\atomic.cpp(97): warning C4715: “TransForm_16”: 不是所有的控件路径都返回值
+  atomic_test.vcxproj -> D:\Project\learnC++\IOCP\IOCP0401_test\x64\Debug\atomic_test.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

@@ -1,0 +1,18 @@
+﻿  matplotlib.cpp
+D:\Project\learnC++\IOCP\IOCP0401_test\matplotlibcpp\matplotlib.cpp(144,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\learnC++\IOCP\IOCP0401_test\matplotlibcpp\matplotlib.cpp(150,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\learnC++\IOCP\IOCP0401_test\matplotlibcpp\matplotlibcpp.h(1482,48): warning C4244: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\Project\learnC++\IOCP\IOCP0401_test\matplotlibcpp\matplotlibcpp.h(2446,12): message : 查看对正在编译的函数 模板 实例化“bool matplotlibcpp::plot<double>(const std::vector<double,std::allocator<double>> &,const std::string &)”的引用
+D:\Project\learnC++\IOCP\IOCP0401_test\matplotlibcpp\matplotlibcpp.h(1490,48): warning C4244: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\Project\learnC++\IOCP\IOCP0401_test\matplotlibcpp\matplotlib.cpp(112,9): message : 查看对正在编译的函数 模板 实例化“bool matplotlibcpp::plot<double>(const std::vector<double,std::allocator<double>> &,const std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>> &)”的引用
+  matplotlibcpp.vcxproj -> D:\Project\learnC++\IOCP\IOCP0401_test\x64\Debug\matplotlibcpp.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

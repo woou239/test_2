@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DigitalArrays", "DigitalArrays\DigitalArrays.vcxproj", "{BA5DAF21-A60E-47D3-AB72-579E7B884BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5DAF21-A60E-47D3-AB72-579E7B884BE0}.Debug|x64.ActiveCfg = Debug|x64
+		{BA5DAF21-A60E-47D3-AB72-579E7B884BE0}.Debug|x64.Build.0 = Debug|x64
+		{BA5DAF21-A60E-47D3-AB72-579E7B884BE0}.Release|x64.ActiveCfg = Release|x64
+		{BA5DAF21-A60E-47D3-AB72-579E7B884BE0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE84EB3-6639-4DDD-981B-BFC52FAE77B3}
+	EndGlobalSection
+EndGlobal

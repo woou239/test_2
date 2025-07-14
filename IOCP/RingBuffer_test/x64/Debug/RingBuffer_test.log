@@ -1,0 +1,47 @@
+﻿  main.cpp
+D:\Project\learnC++\IOCP\IOCP0401_test\RingBuffer_test\main.cpp(142,14): warning C4244: “=”: 从“long”转换到“float”，可能丢失数据
+D:\Project\learnC++\IOCP\IOCP0401_test\RingBuffer_test\main.cpp(166,18): warning C4244: “=”: 从“long”转换到“float”，可能丢失数据
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1510,16): warning C4197: “volatile unsigned int”: 忽略强制转换中的顶级 volatile 变量
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1506,11): message : 在编译 类 模板 成员函数“volatile unsigned int std::_Atomic_integral<_Ty,4>::fetch_add(volatile const unsigned int,const std::memory_order) noexcept”时
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Project\learnC++\IOCP\IOCP0401_test\RingBuffer_test\main.cpp(125,17): message : 请参阅 "RingBuffer::add" 中对 "std::_Atomic_integral<_Ty,4>::fetch_add" 的第一个引用
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1690,34): message : 查看对正在编译的 类 模板 实例化“std::_Atomic_integral<_Ty,4>”的引用
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(2166,17): message : 查看对正在编译的 类 模板 实例化“std::_Atomic_integral_facade<_Ty>”的引用
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Project\learnC++\IOCP\IOCP0401_test\RingBuffer_test\main.cpp(53,33): message : 查看对正在编译的 类 模板 实例化“std::atomic<volatile uint32_t>”的引用
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1712,38): warning C4197: “volatile unsigned int”: 忽略强制转换中的顶级 volatile 变量
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1711,27): message : 在编译 类 模板 成员函数“_Ty std::_Atomic_integral_facade<_Ty>::_Negate(const _Ty) noexcept”时
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1716,9): message : 请参阅 "std::_Atomic_integral_facade<_Ty>::fetch_sub" 中对 "std::_Atomic_integral_facade<_Ty>::_Negate" 的第一个引用
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Project\learnC++\IOCP\IOCP0401_test\RingBuffer_test\main.cpp(169,19): message : 请参阅 "RingBuffer::remove" 中对 "std::_Atomic_integral_facade<_Ty>::fetch_sub" 的第一个引用
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+D:\Learn\Visual Studio\Community\VC\Tools\MSVC\14.37.32822\include\atomic(1712,16): warning C4197: “_Ty”: 忽略强制转换中的顶级 volatile 变量
+          with
+          [
+              _Ty=volatile uint32_t
+          ]
+  RingBuffer_test.vcxproj -> D:\Project\learnC++\IOCP\IOCP0401_test\x64\Debug\RingBuffer_test.exe
